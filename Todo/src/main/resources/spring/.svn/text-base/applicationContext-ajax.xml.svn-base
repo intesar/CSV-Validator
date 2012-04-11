@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans   xmlns="http://www.springframework.org/schema/beans"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:dwr="http://www.directwebremoting.org/schema/spring-dwr"
+         xsi:schemaLocation="http://www.springframework.org/schema/beans
+         http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+         http://www.directwebremoting.org/schema/spring-dwr
+         http://www.directwebremoting.org/schema/spring-dwr/spring-dwr-3.0.xsd">
+
+    
+    <bean id="todoDWRService"  class="com.bia.ajax.TodoDWRServiceImpl" >
+        <dwr:remote javascript="TodoDWRService">
+            <dwr:include method="login" />
+            <dwr:include method="isLoggedIn" />
+            <dwr:include method="logout" />
+            <dwr:include method="emailListToOwners" />
+            <dwr:include method="addItem" />
+            <dwr:include method="deleteItem" />
+            <dwr:include method="changeItemStatus" />
+            <dwr:include method="getList" />
+            <dwr:include method="createList" />
+            <dwr:include method="shareWith" />
+            <dwr:include method="unshareWith" />
+            <dwr:filter class="com.bia.ajax.DwrFilter" />
+        </dwr:remote>
+    </bean>
+    
+    
+    
+    <dwr:configuration>
+        <dwr:convert type="bean" class="com.bia.todo.domain.*" />
+        <dwr:convert type="collection"  class="java.util.*"  />
+        <dwr:convert type="exception"  class="java.lang.Exception" />
+        
+        
+        <!-- <dwr:convert class="java.lang.StackTraceElement" type="bean" /> -->
+        
+    </dwr:configuration>
+</beans>

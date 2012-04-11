@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/486/trunk/Todo/src/main/java/com/bia/todo/service
+END
+TodoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/492/trunk/Todo/src/main/java/com/bia/todo/service/TodoService.java
+END
+TodoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/503/trunk/Todo/src/main/java/com/bia/todo/service/TodoServiceImpl.java
+END
+EmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/457/trunk/Todo/src/main/java/com/bia/todo/service/EmailService.java
+END
+EmailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/486/trunk/Todo/src/main/java/com/bia/todo/service/EmailServiceImpl.java
+END

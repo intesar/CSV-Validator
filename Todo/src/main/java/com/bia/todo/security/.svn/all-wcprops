@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/security
+END
+UserContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/security/UserContext.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/security/package-info.java
+END
+UserDetailsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/security/UserDetailsServiceImpl.java
+END

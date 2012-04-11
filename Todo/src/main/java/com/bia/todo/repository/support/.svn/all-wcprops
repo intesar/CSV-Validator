@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support
+END
+Ranges.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support/Ranges.java
+END
+ByExampleSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support/ByExampleSpecification.java
+END
+CustomRepositoryFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support/CustomRepositoryFactoryBean.java
+END
+JpaUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support/JpaUtil.java
+END
+CustomRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support/CustomRepository.java
+END
+CustomRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support/CustomRepositoryImpl.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support/Range.java
+END
+RangeSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/repository/support/RangeSpecification.java
+END

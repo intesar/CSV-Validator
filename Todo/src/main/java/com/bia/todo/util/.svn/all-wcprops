@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/util
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/util/package-info.java
+END
+LogContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/util/LogContext.java
+END
+ResourcesUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/util/ResourcesUtil.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/util/DateUtil.java
+END
+WithoutTrailingImplBeanNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/util/WithoutTrailingImplBeanNameGenerator.java
+END

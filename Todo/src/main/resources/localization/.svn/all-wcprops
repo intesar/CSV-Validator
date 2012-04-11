@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/455/trunk/Todo/src/main/resources/localization
+END
+application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/455/trunk/Todo/src/main/resources/localization/application.xml
+END
+application_fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/455/trunk/Todo/src/main/resources/localization/application_fr.xml
+END

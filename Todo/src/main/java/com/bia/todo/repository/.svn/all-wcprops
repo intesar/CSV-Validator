@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/459/trunk/Todo/src/main/java/com/bia/todo/repository
+END
+ListsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/456/trunk/Todo/src/main/java/com/bia/todo/repository/ListsRepository.java
+END
+ItemRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/459/trunk/Todo/src/main/java/com/bia/todo/repository/ItemRepository.java
+END
+ProductRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/498/trunk/Todo/src/main/java/com/bia/todo/repository/ProductRepository.java
+END
+CategoryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/497/trunk/Todo/src/main/java/com/bia/todo/repository/CategoryRepository.java
+END
+UsersRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/459/trunk/Todo/src/main/java/com/bia/todo/repository/UsersRepository.java
+END

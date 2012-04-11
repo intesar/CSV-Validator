@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/473/trunk/Todo/src/main/java/com/bia/todo/domain
+END
+Product_.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/497/trunk/Todo/src/main/java/com/bia/todo/domain/Product_.java
+END
+PersistableHashBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/467/trunk/Todo/src/main/java/com/bia/todo/domain/PersistableHashBuilder.java
+END
+Copyable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/497/trunk/Todo/src/main/java/com/bia/todo/domain/Copyable.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/499/trunk/Todo/src/main/java/com/bia/todo/domain/Product.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/499/trunk/Todo/src/main/java/com/bia/todo/domain/Category.java
+END
+Item_.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/domain/Item_.java
+END
+JpaUnique.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/497/trunk/Todo/src/main/java/com/bia/todo/domain/JpaUnique.java
+END
+Lists_.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/domain/Lists_.java
+END
+Users.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/499/trunk/Todo/src/main/java/com/bia/todo/domain/Users.java
+END
+Users_.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/455/trunk/Todo/src/main/java/com/bia/todo/domain/Users_.java
+END
+JpaUniqueValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/497/trunk/Todo/src/main/java/com/bia/todo/domain/JpaUniqueValidator.java
+END
+Lists.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/499/trunk/Todo/src/main/java/com/bia/todo/domain/Lists.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/503/trunk/Todo/src/main/java/com/bia/todo/domain/Item.java
+END
+Category_.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/497/trunk/Todo/src/main/java/com/bia/todo/domain/Category_.java
+END

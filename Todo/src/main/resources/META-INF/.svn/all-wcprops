@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/459/trunk/Todo/src/main/resources/META-INF
+END
+orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/459/trunk/Todo/src/main/resources/META-INF/orm.xml
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/492/trunk/Todo/src/main/resources/META-INF/persistence.xml
+END

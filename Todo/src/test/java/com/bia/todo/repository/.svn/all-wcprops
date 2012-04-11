@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/465/trunk/Todo/src/test/java/com/bia/todo/repository
+END
+ItemRepositoryWithRealSessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/455/trunk/Todo/src/test/java/com/bia/todo/repository/ItemRepositoryWithRealSessionTest.java
+END
+ListsRepositoryWithRealSessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/465/trunk/Todo/src/test/java/com/bia/todo/repository/ListsRepositoryWithRealSessionTest.java
+END
+ItemGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/455/trunk/Todo/src/test/java/com/bia/todo/repository/ItemGenerator.java
+END
+ListsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/455/trunk/Todo/src/test/java/com/bia/todo/repository/ListsGenerator.java
+END
+UsersRepositoryWithRealSessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/455/trunk/Todo/src/test/java/com/bia/todo/repository/UsersRepositoryWithRealSessionTest.java
+END
+UsersGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/455/trunk/Todo/src/test/java/com/bia/todo/repository/UsersGenerator.java
+END

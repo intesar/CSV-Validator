@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
+        <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+        <script type='text/javascript' src='/dwr/engine.js'></script>    
+        <script type='text/javascript' src='/dwr/interface/TodoDWRService.js'></script>
+    </head>
+    <body>
+        <div data-role="page" data-theme="a" >
+
+            <div data-role="header">
+                <h1>Family Todo</h1>
+                
+            </div>
+
+            <div data-role="content" style="clear: both;word-wrap: break-word;">
+                <div style="padding:10%;width:60%" class="container">
+                    <div id="fb-root"></div>
+                    <fb:login-button id="fb-login" autologoutlink="true" scope="email" size="large" length="long">Log In with Facebook</fb:login-button>
+                </div>        
+            </div>
+
+            <div data-role="footer" data-position="fixed" class="" style="text-align: center;">
+                <div data-role="navbar" data-position="fixed">
+                    <a href="http://www.bizintelapps.com" rel="external" target="_blank" style="width:200px">2012 © BizIntelApps</a>
+                </div>
+            </div>
+        </div>
+
+    </body>
+    <script type='text/javascript'>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '156020494503127',
+                status     : true, 
+                cookie     : true,
+                xfbml      : true,
+                oauth      : true
+            });
+            /* All the events registered */
+            FB.Event.subscribe('auth.login', function (response) {
+                if (response.status == 'connected' ) {
+                    verify(response)
+                }
+            });
+            //FB.logout()
+        };
+        (function(d){
+            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "https://connect.facebook.net/en_US/all.js";
+            d.getElementsByTagName('head')[0].appendChild(js);
+        }(document));
+        var code = 0;
+        function verify(response){
+            TodoDWRService.login(response.authResponse.accessToken, code, function(c) {
+                code = c
+                if ( code == -1 ){
+                    FB.login()
+                    //$("#fb-login").click()
+                } else if ( code == 1) {
+                    window.location.href = "/home.html";
+                } else {
+                    alert ("Error authenticating credentials, please try again!")
+                }
+            })
+        }
+        $(document).ready(function() {
+            $("#fb-login").click("tap", function(){
+                FB.getLoginStatus(function (response) {
+                    if (response.status == 'connected' ) {
+                        verify(response)
+                    } 
+                });
+            })
+            $("#fb-login").dblclick(function(){
+                    
+            })
+            TodoDWRService.isLoggedIn(function(code){
+                if ( code == 1) {
+                    window.location.href = "/home.html";
+                }
+            })
+        })
+    </script>
+</html>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/484/trunk/Todo/src/main/resources
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/475/trunk/Todo/src/main/resources/log4j.xml
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/455/trunk/Todo/src/main/resources/database.properties
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/500/trunk/Todo/src/main/resources/ehcache.xml
+END
+ValidationMessages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/455/trunk/Todo/src/main/resources/ValidationMessages_fr.properties
+END
+ValidationMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/455/trunk/Todo/src/main/resources/ValidationMessages.properties
+END
+ValidationMessages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/455/trunk/Todo/src/main/resources/ValidationMessages_en.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/502/trunk/Todo/src/main/resources/hibernate.properties
+END
